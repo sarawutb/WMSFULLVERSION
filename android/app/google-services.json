@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168619539931",
+    "project_id": "wms-send-message-notify",
+    "storage_bucket": "wms-send-message-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168619539931:android:4fe3bcd1c564f42726fbfe",
+        "android_client_info": {
+          "package_name": "com.example.wms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168619539931-1pchfbm97ojkiq44l638a9rp2944fucu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHdxAk4poyH014k1-hEc2dcLB5bzcR0RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168619539931-1pchfbm97ojkiq44l638a9rp2944fucu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
